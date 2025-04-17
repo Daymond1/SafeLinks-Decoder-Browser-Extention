@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "SafeLinks Decoder",
+  "version": "1.0",
+  "description": "Decodes SafeLinks URLs.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icons/icon.png"
+  },
+  "permissions": [
+    "clipboardWrite"
+  ],
+  "icons": {
+    "48": "icons/icon.png",
+    "128": "icons/icon.png"
+  }
+}
