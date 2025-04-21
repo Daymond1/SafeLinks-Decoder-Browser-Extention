@@ -2,10 +2,13 @@
 
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/oelophohfcaoddckjfdoaphaienfpbdg?style=flat-square)](https://chromewebstore.google.com/detail/safelinks-decoder/oelophohfcaoddckjfdoaphaienfpbdg?authuser=0&hl=en)
 [![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/oelophohfcaoddckjfdoaphaienfpbdg?style=flat-square)](https://chromewebstore.google.com/detail/safelinks-decoder/oelophohfcaoddckjfdoaphaienfpbdg?authuser=0&hl=en)
+[![Firefox Add-ons](https://img.shields.io/amo/v/safelinks-decoder?style=flat-square)](https://addons.mozilla.org/en-US/firefox/addon/safelinks-decoder/)
+[![Firefox Add-ons Users](https://img.shields.io/amo/users/safelinks-decoder?style=flat-square)](https://addons.mozilla.org/en-US/firefox/addon/safelinks-decoder/)
 
 **Decodes SafeLinks URLs. Simplify Web Links Instantly.**
 
 [Link to Chrome Web Store](https://chromewebstore.google.com/detail/safelinks-decoder/oelophohfcaoddckjfdoaphaienfpbdg?authuser=0&hl=en)
+[Link to Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/safelinks-decoder/)
 
 ## What it Does:
 
