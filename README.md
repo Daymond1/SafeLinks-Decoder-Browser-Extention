@@ -30,6 +30,9 @@
 * **Cross-Browser Compatibility:** Use it on your preferred browser – Chrome, Firefox, or Microsoft Edge (coming soon).
 
 ---
+Support me here: https://buymeacoffee.com/imroot/safelinks-decoder-your-essential-tool-instant-url-decoding
+
+---
 
 ## License
 
