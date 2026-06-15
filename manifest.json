@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "SafeLinks Decoder",
-  "version": "1.0",
+  "version": "2.0",
   "description": "Decodes SafeLinks URLs.",
   "action": {
     "default_popup": "popup.html",
